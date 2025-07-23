@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 09 15:07:24 CST 2025","Wed Jul 09 15:08:18 CST 2025","53884","case_floor","aaaaa","","","","小说名称模糊查询验证--",""
+"passed","Wed Jul 09 15:10:55 CST 2025","Wed Jul 09 15:12:05 CST 2025","70210","case_floor","aaaaa","","","","榜单功能随机抽取验证--",""
+"passed","Wed Jul 09 15:08:18 CST 2025","Wed Jul 09 15:09:09 CST 2025","50952","case_floor","aaaaa","","","","小说作者模糊查询验证--",""
+"passed","Wed Jul 09 15:12:05 CST 2025","Wed Jul 09 15:13:23 CST 2025","78572","case_floor","aaaaa","","","","分类功能随机抽取验证--",""
+"passed","Wed Jul 09 15:09:09 CST 2025","Wed Jul 09 15:10:06 CST 2025","56575","case_floor","aaaaa","","","","小说名称精确查询验证--",""
+"passed","Wed Jul 09 15:10:06 CST 2025","Wed Jul 09 15:10:55 CST 2025","49093","case_floor","aaaaa","","","","小说作者精确查询验证--",""

@@ -1,0 +1,7 @@
+INFO     移动端自动化测试框架日志对象:aaaaa.py:37 小说作者模糊查询验证--默认搜索内容存在验证成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:43 小说作者模糊查询验证--点击搜索框跳转页面验证成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:47 小说作者模糊查询验证--搜索历史验证查询成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:51 小说作者模糊查询验证--热门榜单验证查询成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:62 小说作者模糊查询验证--未点搜索跳转页面验证成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:68 小说作者模糊查询验证--点击搜索跳转页面验证成功
+WARNING  urllib3.connectionpool:connectionpool.py:873 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /wd/hub/session/3ba54889-ee67-4e0d-a408-a3b24ede7925

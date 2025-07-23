@@ -1,0 +1,4 @@
+WARNING  urllib3.connectionpool:connectionpool.py:873 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /wd/hub/session/a2ad3b81-c01f-4efd-84dc-0087ec8b7374/element/e43e9e36-ccd0-4337-a6f4-755da6ff6936/text
+INFO     移动端自动化测试框架日志对象:aaaaa.py:92 榜单功能随机抽取验证--成功找到文本为“口碑榜”的元素，页面跳转验证成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:108 榜单功能随机抽取验证--成功找到文本为“知识”的元素，页面跳转验证成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:121 榜单功能随机抽取验证--成功找到文本为“新书榜”的元素，页面跳转验证成功

@@ -1,0 +1,3 @@
+INFO     移动端自动化测试框架日志对象:aaaaa.py:141 分类功能随机抽取验证--分页功能跳转页面验证成功
+INFO     移动端自动化测试框架日志对象:aaaaa.py:158 分类功能随机抽取验证--成功找到文本为“主题”的元素，页面跳转验证成功
+WARNING  urllib3.connectionpool:connectionpool.py:873 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /wd/hub/session/502a883b-8a8a-4dcb-9fe0-951d32c0d0ab/element/6030da1e-4911-44ad-a621-8535639452b8/text
